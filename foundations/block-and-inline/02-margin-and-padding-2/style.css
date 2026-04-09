@@ -10,6 +10,13 @@ body {
   padding: 12px;
 }
 
+div,
+h1,
+button {
+  font-size: 22px;
+  padding: 12px;
+}
+
 .title {
   background: #e3f4ff;
 }

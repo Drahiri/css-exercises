@@ -20,10 +20,7 @@ img {
 }
 
 .plant {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  flex: 0 0 200px;
+  max-width: 200px;
 }
 
 /* do not edit this footer */

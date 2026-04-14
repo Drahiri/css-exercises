@@ -43,3 +43,7 @@ ul {
   justify-content: space-between;
   gap: 16px;
 }
+
+.footer {
+  background-color: #eee;
+}

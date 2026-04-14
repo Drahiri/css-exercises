@@ -18,6 +18,13 @@ img {
   justify-content: center;
 }
 
+.plant {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 0 0 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;

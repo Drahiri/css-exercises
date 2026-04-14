@@ -26,6 +26,10 @@ img {
   flex: 0 0 200px;
 }
 
+.text {
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;

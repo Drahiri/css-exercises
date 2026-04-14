@@ -47,3 +47,10 @@ ul {
 .footer {
   background-color: #eee;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
